@@ -4,14 +4,14 @@
         "title": "Apple",
         "price": 1.6,
         "image": "https://123pizzatime.pl/wp-content/uploads/2019/12/The-Gourmet-Burger-Instagram-Square-38-600x600.png.webp",
-        "expiry": "12-02-23"
+        "expiry": "Expiry:12-02-23"
     },
     {
         "id": 2,
         "title": "Tomato",
         "price": 2.9,
         "image": "https://www.hotmag.pl/media/141MAJ/Pizza/_slider.jpg",
-         "expiry": "12-02-23"
+         "expiry": "Expiry:12-02-23"
        
     },
     {
