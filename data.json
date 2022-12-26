@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Margherita",
+        "price": 16.90,
+        "image": "https://123pizzatime.pl/wp-content/uploads/2019/12/The-Gourmet-Burger-Instagram-Square-38-600x600.png.webp",
+        "ingredients": ["sos", "ser"]
+    },
+    {
+        "id": 2,
+        "title": "Venezia",
+        "price": 21.90,
+        "image": "https://www.hotmag.pl/media/141MAJ/Pizza/_slider.jpg",
+        "ingredients": ["ser", "szynka", "pieczarki", "krewetki"]
+    },
+    {
+        "id": 3,
+        "title": "Vezuvio",
+        "price": 19.90,
+        "image": "https://www.veropizza.com/storage/app/public/pizzas/June2020/xZKnG20F2Y3hktybEqytD.gif.pagespeed.ic.jbtT3ybWnF.png",
+        "ingredients": ["szynka" , "ser"]
+    },
+    {
+        "id": 4,
+        "title": "Capriciosa",
+        "price": 20.90,
+        "image": "http://2.bp.blogspot.com/-gZYhX1RUjI4/Vlmzfd66pCI/AAAAAAAACjQ/C42236eamUY/s1600/DSC00817.JPG",
+        "ingredients": ["pieczarki", "szynka", "ser"]
+    },
+    {
+        "id": 5,
+        "title": "La Vera",
+        "price": 20.90,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/44/03/6e/photo0jpg.jpg",
+        "ingredients": ["cebula", "pieczarki", "szynka", "ser"]
+    },
+    {
+        "id": 6,
+        "title": "Carbonara",
+        "price": 20.90,
+        "image": "https://thumbs.dreamstime.com/b/pizza-carbonara-z-bekonem-74898136.jpg",
+        "ingredients": ["sos śmietanowy", "boczek", "cebula", "pieczarki", "ser"]
+    },
+    {
+        "id": 7,
+        "title": "Amigo",
+        "price": 21.90,
+        "image": "https://cdn.urbanpiper.com/media/bizmedia/2019/03/19/5_COMPRESSED.jpg",
+        "ingredients": ["ser", "sos śmietanowy", "boczek", "grillowany kurczak", "papryka", "papryka jalapeno"]
+    },
+    {
+        "id": 8,
+        "title": "Funghi",
+        "price": 19.90,
+        "image": "https://najlepszewkuchni.pl/storage/recipes/2017_11_15/QwcI4SMkbIGr4RztSHnr.jpg",
+        "ingredients": ["ser", "pieczarki"]
+    },
+    {
+        "id": 9,
+        "title": "Parma",
+        "price": 21.90,
+        "image": "https://kulinarnyblog.pl/wp-content/uploads/2021/04/pizza-tortilla3-1360x1306.jpg",
+        "ingredients": ["ser", "szynka szwarcwaldzka", "ser wędzony", "oliwki", "pomidorki koktajlowe"]
+    },
+    {
+        "id": 10,
+        "title": "Pepperoni",
+        "price": 22.90,
+        "image": "https://www.mojegotowanie.pl/media/cache/big/uploads/media/recipe/0002/11/pizza-pepperoni.jpeg",
+        "ingredients": ["ser", "sos chilli", "szynka, salami", "pieczarki", "oliwki", "papryka pepperoni", "cebula"]
+    },
+    {
+        "id": 11,
+        "title": "Tuna",
+        "price": 21.90,
+        "image": "https://skinnyspatula.com/wp-content/uploads/2019/12/Tuna-Pizza-with-Red-Onion-and-Black-Olives4-1024x1024.jpg",
+        "ingredients": ["ser", "tuńczyk", "czerwona cebula", "czosnek"]
+    },
+    {
+        "id": 12,
+        "title": "Mexicana",
+        "price": 21.90,
+        "image": "https://tastycraze.com/files/lib/400x296/pizza52.jpg",
+        "ingredients": ["ser", "sos chilli", "szynka", "pieczarki", "papryka", "kukurydza", "fasola"]
+    },
+    {
+        "id": 13,
+        "title": "Bianco Beef",
+        "price": 22.90,
+        "image": "https://najlepszewkuchni.pl/storage/recipes/2017_11_11/NaqrNycN7VyDPS4gjkMV.jpg",
+        "ingredients": ["ser", "sos śmietanowy", "wołowina", "cebula", "ogórek konserwowy", "ser gorgonzola"]
+    },
+    {
+        "id": 14,
+        "title": "Ampelio",
+        "price": 21.90,
+        "image": "https://lirp.cdn-website.com/ad6eb8b3/dms3rep/multi/opt/Pizzeria-Sant-Ampelio-003-640w.jpg",
+        "ingredients": ["ser", "szynka", "salami", "pieczarki"]
+    },
+    {
+        "id": 15,
+        "title": "Hawaii",
+        "price": 20.90,
+        "image": "https://www.unileverfoodsolutions.pl/dam/global-ufs/mcos/NEE/calcmenu/recipes/PL-recipes/general/pizza-hawaii/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg",
+        "ingredients": ["ser", "szynka", "ananas"]
+    },
+    {
+        "id": 16,
+        "title": "Vega",
+        "price": 21.90,
+        "image": "https://vegabialobrzegi.pl/wp-content/uploads/2020/06/15-pizza-vega-300x225.jpg",
+        "ingredients": ["ser", "pieczarki", "kukurydza", "cebula", "oliwki", "papryka", "brokuł", "pomidor"]
+    },
+    {
+        "id": 17,
+        "title": "Salami",
+        "price": 21.90,
+        "image": "https://fotokulinarnie.pl/wp-content/uploads/2021/02/IMG_4407-792x528.jpg",
+        "ingredients": ["ser", "salami", "cebula", "oliwki"]
+    },
+    {
+        "id": 18,
+        "title": "Toscana",
+        "price": 21.90,
+        "image": "https://www.skorzewo.pracowniapizzy.pl/wp-content/uploads/2017/01/7.-TOSCANA_MG_2800s-min.jpg",
+        "ingredients": ["ser", "szynka szwarcwaldzka", "salami", "suszone pomidory", "mozzarella", "rukola"]
+    },
+    {
+        "id": 19,
+        "title": "Quatro Formaggi",
+        "price": 21.90,
+        "image": "https://www.insidetherustickitchen.com/wp-content/uploads/2020/07/Quattro-Formaggi-1200px-Inside-the-Rustic-Kitchen-2.jpg",
+        "ingredients": ["mozzarella", "ser typu feta", "blue", "camembert"]
+    },
+    {
+        "id": 20,
+        "title": "Italiano",
+        "price": 20.90,
+        "image": "https://pliki.doradcasmaku.pl/pizza-italiana0-4.webp",
+        "ingredients": ["mozzarella", "pomidor", "oliwki", "bazylia"]
+    }
+]
